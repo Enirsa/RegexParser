@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutomataRegex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutomataRegex_jar</output-path>
+    <root id="archive" name="AutomataRegex.jar">
+      <element id="module-output" name="AutomataRegex" />
+    </root>
+  </artifact>
+</component>
